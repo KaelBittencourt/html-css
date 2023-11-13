@@ -1,0 +1,21 @@
+* {
+    align-items: left;
+    align-items: left;
+    width: 100%;
+    border-radius: 100%;
+}
+
+.img {
+    display: flex;
+    width: 200px;
+
+}
+
+.social_icon {
+    width: 50px;
+}
+
+.social_conteiner {
+    display: flex;
+    
+}
