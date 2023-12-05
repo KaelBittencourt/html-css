@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+  background-color: black;
+  font-family: monospace;
+  font-size: x-large;
+}
+
+.conteiner-imgs {
+  width: 800px;
+  color: white;
+}
+
+img {
+  cursor: pointer;
+}
